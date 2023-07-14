@@ -1,0 +1,3 @@
+https://www.getzola.org/[Zola] site for https://www.eternus.co.uk/.
+
+This is served using GitHub Pages.
